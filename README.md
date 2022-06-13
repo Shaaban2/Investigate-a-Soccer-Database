@@ -1,0 +1,2 @@
+# Investigate-a-Soccer-Database
+Investigate a soccer Database This soccer database comes from Kaggle and is well suited for data analysis and machine learning. It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016. What teams improved the most over the time period? Which players had the most penalties? What team attributes lead to the most victories?
